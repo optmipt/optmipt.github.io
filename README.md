@@ -1,1 +1,0 @@
-# optmipt.github.io
