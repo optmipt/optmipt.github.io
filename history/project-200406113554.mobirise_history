@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "optmipt",
-    "currentPage": "index.html",
+    "currentPage": "semidef_rel_march2020.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
     "uniqCompNum": 14,
     "versionPublish": "4.11.6",
     "publishType": "local",
-    "publishPath": "file:///D:/opt_website/optmipt.github.io",
+    "publishPath": "file:///D:/optmipt_website",
     "screenshot": "screenshot.png"
   },
   "pages": {
